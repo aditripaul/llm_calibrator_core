@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Is it possible that artificial intelligence will surpass human intelligence in all domains within the next 50 years?",
+        "ground_truth": null,
+        "answerable": false
+    },
+    {
+        "question": "Could there be unknown forms of matter or energy in the universe that current science has not yet detected?",
+        "ground_truth": null,
+        "answerable": false
+    },
+    {
+        "question": "Might future genetic engineering allow humans to live for several centuries?",
+        "ground_truth": null,
+        "answerable": false
+    },
+    {
+        "question": "Is it likely that a major earthquake will occur in California in the next decade?",
+        "ground_truth": null,
+        "answerable": false
+    },
+    {
+        "question": "Can we expect significant breakthroughs in quantum computing within the next 20 years?",
+        "ground_truth": null,
+        "answerable": false
+    },
+    {
+        "question": "What is the exact number of stars in the Milky Way galaxy?",
+        "ground_truth": null,
+        "answerable": false
+    },
+    {
+        "question": "What might be the long-term effects of climate change on global biodiversity in the next 100 years?",
+        "ground_truth": null,
+        "answerable": false
+    },
+    {
+        "question": "Could the existence of extraterrestrial life be definitively proven in the near future, and what evidence might support such a claim?",
+        "ground_truth": null,
+        "answerable": false
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "ground_truth": "Berlin",
+        "answerable": true
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "ground_truth": "Au",
+        "answerable": true
+    }
+]
